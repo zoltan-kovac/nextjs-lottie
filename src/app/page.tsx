@@ -11,6 +11,7 @@ export default function Home() {
       {/* <CustomPlayer src="/yoga.json" /> */}
 
       <CustomPlayer src="/yoga.lottie" />
+      <CustomPlayer src="/yoga 2.lottie" />
     </main>
   );
 }
