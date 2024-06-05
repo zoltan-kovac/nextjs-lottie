@@ -8,9 +8,9 @@ export default function Home() {
       {/* <CustomPlayer src="/Empty State.json" /> */}
       {/* <CustomPlayer src="/Newtest5.json" /> */}
       <h2>JSON lottie source</h2>
-      {/* <CustomPlayer src="/yoga.json" /> */}
 
-      <CustomPlayer src="/yoga.lottie" />
+      <CustomPlayer src="/yoga.json" />
+      <CustomPlayer src="/yoga 2.json" />
     </main>
   );
 }
