@@ -7,10 +7,10 @@ export default function Home() {
       {/* <CustomPlayer src="/Error ice cream.json" /> */}
       {/* <CustomPlayer src="/Empty State.json" /> */}
       {/* <CustomPlayer src="/Newtest5.json" /> */}
-      {/* <CustomPlayer src="/Test 2.json" /> */}
+      <h2>JSON lottie source</h2>
+      {/* <CustomPlayer src="/yoga.json" /> */}
 
-      <h2>dotlottie source</h2>
-      <CustomPlayer src="/Test 2.lottie" />
+      <CustomPlayer src="/yoga.lottie" />
     </main>
   );
 }
