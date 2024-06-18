@@ -10,8 +10,11 @@ export default function Home() {
       <h2>JSON lottie source</h2>
       {/* <CustomPlayer src="/yoga.json" /> */}
 
-      <CustomPlayer src="/yoga.lottie" />
-      <CustomPlayer src="/yoga 2.lottie" />
+      <CustomPlayer src="/Surfing.lottie" />
+      <CustomPlayer src="/Ice-cream.lottie" />
+      <CustomPlayer src="/final-hiker.lottie" />
+      <CustomPlayer src="/celebration.lottie" />
+      <CustomPlayer src="/Yoga 3.lottie" />
     </main>
   );
 }
